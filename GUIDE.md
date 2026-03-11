@@ -560,17 +560,29 @@ git push origin --delete feature-login
 ________________________________________
 # 🧠 The 12 Commands Developers Use Most
 git clone
+
 git status
+
 git add
+
 git commit
+
 git push
+
 git pull
+
 git fetch
+
 git branch
+
 git checkout
+
 git merge
+
 git remote
+
 git log
+
 If you master these → Git becomes easy.
 ________________________________________
 💡 Real Daily Workflow of Developers
